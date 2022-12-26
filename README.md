@@ -23,7 +23,7 @@ Otherwise:
 `pip install onnxruntime`
 
 # ONNX model
-The models were converted from the Pytorch implementation below by [PINTO0309](https://github.com/PINTO0309), download the models from the download script in [his repository](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/338_Fast-ACVNet) and save them into the **[models](hhttps://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/tree/main/models)** folder. 
+The models were converted from the Pytorch implementation below by [PINTO0309](https://github.com/PINTO0309), download the models from the download script in [his repository](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/338_Fast-ACVNet) and save them into the **[models](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/tree/main/models)** folder. 
 - The License of the models is MIT License: https://github.com/gangweiX/Fast-ACVNet/blob/main/LICENSE.md
 
 # Pytorch model
