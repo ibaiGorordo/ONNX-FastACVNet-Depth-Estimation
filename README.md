@@ -40,7 +40,7 @@ The original Pytorch model can be found in this repository: https://github.com/g
  ```
  python video_depth_estimation.py
  ```
- ![!Fast-ACVNet depth estimation](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/doc/img/fastacvnet_malaga_urban.gif)
+ ![!Fast-ACVNet depth estimation](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/blob/main/doc/img/fastacvnet_malaga_urban.gif)
  
  *Original video: Málaga Stereo and Laser Urban dataset, reference below*
 
@@ -48,7 +48,7 @@ The original Pytorch model can be found in this repository: https://github.com/g
  ```
  python driving_stereo_test.py
  ```
- ![!CREStereo depth estimation](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/doc/img/fastacvnet_driving_stereo.gif)
+ ![!CREStereo depth estimation](https://github.com/ibaiGorordo/ONNX-FastACVNet-Depth-Estimation/blob/main/doc/img/fastacvnet_driving_stereo.gif)
   
  *Original video: Driving stereo dataset, reference below*
   
